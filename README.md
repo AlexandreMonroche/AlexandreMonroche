@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Alexandre Monroche
+- 👀 I’m interested in computer science
